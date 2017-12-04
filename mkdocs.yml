@@ -1,0 +1,6 @@
+site_name: Ultimate Devops Bootcamp
+pages: 
+  - Home: index.md
+  - About: chapter1.md
+theme: readthedocs
+
